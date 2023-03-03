@@ -11,9 +11,9 @@ CREATE TABLE clubtbl(
 );
 
 CREATE TABLE stdclubtbl(
-	num INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
-    stdName NVARCHAR(10) NOT NULL,
-    clubname NVARCHAR(10) NOT NULL,
+   num INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    stdName  NVARCHAR(10) NOT NULL,
+    clubName NVARCHAR(10) NOT NULL,
     FOREIGN KEY(stdName) REFERENCES stdtbl(stdName),
     FOREIGN KEY(clubName) REFERENCES clubtbl(clubName)
 );

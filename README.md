@@ -15,3 +15,6 @@ IoT 개발자 과정 데이터베이스 - MySQL
     - SQL 기본
 
 # 3일차
+1. MySQL 학습
+    - MySQL 기본
+    - MySQL 고급
