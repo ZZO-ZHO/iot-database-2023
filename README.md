@@ -16,5 +16,25 @@ IoT 개발자 과정 데이터베이스 - MySQL
 
 # 3일차
 1. MySQL 학습
-    - MySQL 기본
+    - MySQL 기본 CRUD
+        - INSERT
+        - SELECT
+        - UPDATE
+        - DELETE
     - MySQL 고급
+        - 데이터 형식
+        - 내장함수
+        - JOIN
+
+# 4일차
+1. MySQL 학습
+    - MySQL 고급
+        - JOIN
+        - 테이블/뷰
+        - 인덱스
+2. MySQL 활용
+    - BookRentalShop 쿼리연습
+
+# 5일차
+1. MySQL 활용
+    - BookRentalShop 쿼리연습
