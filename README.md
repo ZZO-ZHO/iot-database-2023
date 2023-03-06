@@ -1,5 +1,5 @@
 # iot-database-2023
-IoT 개발자 과정 데이터베이스 - MySQL
+IoT 개발자 과정 데이터베이스 - MySQL  
 ![MySQL](https://raw.githubusercontent.com/ZZO-ZHO/iot-database-2023/main/images/sql.png)
 
 # 1일차
